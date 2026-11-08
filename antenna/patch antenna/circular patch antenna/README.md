@@ -11,7 +11,7 @@ This repository contains the complete design, parametric optimization, and elect
 ![Antenna Design](images/antenna_design.png)
 
 ### Geometrical Parameters
-The antenna geometry is fully parametric. The dimensions automatically scale dynamically when the baseline variables are updated in the parameter list.
+The antenna geometry is fully parametric. The dimensions automatically scale dynamically when the baseline variables are updated in the parameter list.[^2]
 
 | Parameter Name | Description | Value |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@ The layer stack-up consists of a ground plane, a dielectric substrate, and the p
 
 ### 1. S-Parameters (S11 Magnitude)
 The return loss curve demonstrates a sharp resonance dip centered at **2.4625 GHz**, reaching a minimum magnitude value of **-24.4 dB**.
-![S11 Return Loss](images/s11.png)
+![S11 Return Loss](images/s11.png) [^1]
 
 ### 2. Z-Parameters (Z11 Input Impedance Magnitude)
 The absolute input impedance magnitude stabilizes at **48.46 Ohm** within the operational resonance window, providing an optimal match to a standard 50 Ohm transmission network.
@@ -60,7 +60,7 @@ The 3D radiation plot shows a broadside directional lobe projecting outward from
 1. Download or clone this repository to your machine.
 2. Open **CST Studio Suite**.
 3. Load the `Circular_Patch_Antenna_2.45GHz.cst` file.
-4. If you wish to change the target bands, modify the radius parameter `a` in the **Parameter List**, press `F7` to rebuild, and run the Time Domain Solver.
+4. If you wish to change the target bands, modify the radius parameter `a` in the **Parameter List**, press `F7` to rebuild, and run the Time Domain Solver.[^3]
 
 ---
 
