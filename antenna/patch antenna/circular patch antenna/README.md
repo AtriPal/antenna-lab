@@ -2,7 +2,7 @@
 
 This repository contains the complete design, parametric optimization, and electromagnetic simulation of an inset-fed circular microstrip patch antenna. The structure is optimized to operate within the 2.45 GHz Industrial, Scientific, and Medical (ISM) band, commonly utilized for Wi-Fi, Bluetooth, and IoT applications. The project was designed and simulated using the Time Domain Solver in CST Studio Suite.
 
-[Download the CST simulation file](file/circular patch with inset feed.cst)
+[Download the CST simulation file](file/circular%20patch%20with%20inset%20feed.cst)
 
 ---
 
