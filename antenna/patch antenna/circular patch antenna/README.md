@@ -30,8 +30,8 @@ The layer stack-up consists of a ground plane, a dielectric substrate, and the p
 
 ---
 ## Design
-![Antenna sideview](images/antenna_design_2)
-![Antenna Port](images/antenna_port)
+![Antenna sideview](images/antenna_design_2.png)
+![Antenna Port](images/antenna_port.png)
 
 ---
 ## Simulation Results
