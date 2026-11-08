@@ -29,7 +29,11 @@ The layer stack-up consists of a ground plane, a dielectric substrate, and the p
 | **Ground Plane** | Copper (annealed) | Lossy Conductor | 0.035 mm |
 
 ---
+## Design
+![Antenna sideview](images/antenna_design_2)
+![Antenna Port](images/antenna_port)
 
+---
 ## Simulation Results
 
 ### 1. S-Parameters (S11 Magnitude)
